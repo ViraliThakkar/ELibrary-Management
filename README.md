@@ -9,10 +9,8 @@ Users of the System
 Functions 
 1. Admin
 - Can add/edit/view/delete librarian
-- Can logout
 2. Librarian
 - Can add/edit/delete/view books
 - Can issue books
 - View issued books
 - Return Books
-- Can logout
